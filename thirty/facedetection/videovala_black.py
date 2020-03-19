@@ -1,6 +1,6 @@
 import cv2
-
-cap=cv2.VideoCapture(0)
+import time
+cap=cv2.VideoCapture(0)    ### 0 represnt web cam
 
 
 while True:
@@ -18,3 +18,6 @@ while True:
 
     if key==ord("q"):
         break
+time.sleep(10)
+cap.release()
+cv2.destroyAllWindows()
