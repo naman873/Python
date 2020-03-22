@@ -2,17 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4039e90c-72dd-4b9a-9751-d958e1565e5e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/thirtyone/face_detect.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thirtyone/glass.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thirtytwo/face detect.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thirtytwo/face learn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thirtytwo/faces.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thirtytwo/haarcascade_frontalface_default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thirtytwo/os working.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thirtyone/snapchat/glass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thirtyone/snapchat/haarcascade_eye.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thirtyone/snapchat/haarcascade_frontalface_default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thirtyone/snapchat/hat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thirtyone/snapchat/python_hat.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thirty/KNN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/thirty/KNN.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thirty/facedetection/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/thirty/facedetection/Untitled.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thirtyone/snapchat.py" beforeDir="false" afterPath="$PROJECT_DIR$/thirtyone/snapchat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thirtyone/snapchat.py" beforeDir="false" afterPath="$PROJECT_DIR$/thirtyone/snapchat/snapchat_eyes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,22 +41,23 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pracrice" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/thirtyone/snapchat" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Naman\pracrice\questions\recursion" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Naman\python\thirtyone\snapchat" />
       <recent name="C:\Users\Naman\pracrice" />
       <recent name="C:\Users\Naman\python\thirtytwo" />
       <recent name="C:\Users\Naman\python\thirtyone" />
       <recent name="C:\Users\Naman\python\thirty\facedetection" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.face detect">
+  <component name="RunManager" selected="Python.python_hat">
     <configuration name="face detect" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -103,7 +100,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="face_detect" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="python_hat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/thirtyone/snapchat" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/thirtyone/snapchat/python_hat.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="snapchat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,7 +133,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/thirtyone/face_detect.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/thirtyone/snapchat.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +142,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="os working" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="snapchat_eyes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,32 +150,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/thirtytwo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/thirtyone/snapchat" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/thirtytwo/os working.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="we the group" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pracrice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pracrice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pracrice/we the group.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Naman\python\thirtyone\snapchat\snapchat_eyes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.python_hat" />
+        <item itemvalue="Python.snapchat_eyes" />
+        <item itemvalue="Python.snapchat" />
         <item itemvalue="Python.face detect" />
         <item itemvalue="Python.face learn" />
-        <item itemvalue="Python.os working" />
-        <item itemvalue="Python.face_detect" />
-        <item itemvalue="Python.we the group" />
       </list>
     </recent_temporary>
   </component>
@@ -209,22 +206,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581502722039" />
-    <state width="1345" height="107" key="GridCell.Tab.0.bottom" timestamp="1584786736642">
+    <state width="1345" height="107" key="GridCell.Tab.0.bottom" timestamp="1584863197974">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="107" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584786736642" />
-    <state width="1345" height="107" key="GridCell.Tab.0.center" timestamp="1584786736642">
+    <state width="1345" height="107" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584863197974" />
+    <state width="1345" height="107" key="GridCell.Tab.0.center" timestamp="1584863197974">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="107" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584786736642" />
-    <state width="1345" height="107" key="GridCell.Tab.0.left" timestamp="1584786736642">
+    <state width="1345" height="107" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584863197974" />
+    <state width="1345" height="107" key="GridCell.Tab.0.left" timestamp="1584863197974">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="107" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584786736642" />
-    <state width="1345" height="107" key="GridCell.Tab.0.right" timestamp="1584786736642">
+    <state width="1345" height="107" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584863197974" />
+    <state width="1345" height="107" key="GridCell.Tab.0.right" timestamp="1584863197974">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="107" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584786736642" />
+    <state width="1345" height="107" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584863197974" />
     <state width="1345" height="95" key="GridCell.Tab.1.bottom" timestamp="1584540605629">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -241,14 +238,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="95" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1584540605629" />
-    <state x="184" y="6" key="SettingsEditor" timestamp="1584713873359">
+    <state x="184" y="6" key="SettingsEditor" timestamp="1584819409243">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584713873359" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1584778667794">
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584819409243" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1584860636896">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584778667794" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584860636896" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1581516456700">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
