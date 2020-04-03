@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4039e90c-72dd-4b9a-9751-d958e1565e5e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thirtynine/charm/Procfile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/thirtynine/charm/Procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thirtynine/BasicFlask.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
