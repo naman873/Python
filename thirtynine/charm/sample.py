@@ -1,8 +1,8 @@
 from flask import Flask,templating,request
 
 app=Flask("hell")
-@app.route("/form/")
 
+@app.route("/form/")
 def fom():
     return templating.render_template("index.html")
 
