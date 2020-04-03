@@ -2,19 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4039e90c-72dd-4b9a-9751-d958e1565e5e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/thirtyeight/.ipynb_checkpoints/nltk_modi-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thirtyeight/.ipynb_checkpoints/ntlk_basic-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thirtyeight/.ipynb_checkpoints/spam_ham-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thirtyeight/.ipynb_checkpoints/speech-checkpoint.text" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thirtyeight/nltk_modi.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thirtyeight/ntlk_basic.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thirtyeight/spam_ham.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thirtyeight/speech.text" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thirtynine/.ipynb_checkpoints/BasicFlask-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thirtynine/BasicFlask.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thirtynine/charm/sample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thirtynine/charm/Procfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thirtynine/charm/requirements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thirtynine/charm/templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thirtyseven/nb.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/thirtyseven/nb.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thirtynine/charm/sample.py" beforeDir="false" afterPath="$PROJECT_DIR$/thirtynine/charm/sample.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -45,6 +38,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/thirtyone/snapchat" />
@@ -63,7 +57,7 @@
       <recent name="C:\Users\Naman\python\thirty\facedetection" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.face detect">
+  <component name="RunManager" selected="Python.sample">
     <configuration name="face detect" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -148,7 +142,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="snapchat_eyes (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sample" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -156,11 +150,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/thirtyone/snapchat" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/thirtynine/charm" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/thirtyone/snapchat/snapchat_eyes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/thirtynine/charm/sample.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sample" />
         <item itemvalue="Python.face detect" />
         <item itemvalue="Python.face learn" />
         <item itemvalue="Python.python_hat" />
         <item itemvalue="Python.first" />
-        <item itemvalue="Python.snapchat_eyes (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -196,10 +190,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="458" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584603137924">
+    <state x="458" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585903818953">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="458" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1584603137924" />
+    <state x="458" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1585903818953" />
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584623321666">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -212,22 +206,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581502722039" />
-    <state width="1345" height="126" key="GridCell.Tab.0.bottom" timestamp="1585218595005">
+    <state width="1345" height="126" key="GridCell.Tab.0.bottom" timestamp="1585903877358">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="126" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585218595005" />
-    <state width="1345" height="126" key="GridCell.Tab.0.center" timestamp="1585218595005">
+    <state width="1345" height="126" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585903877358" />
+    <state width="1345" height="126" key="GridCell.Tab.0.center" timestamp="1585903877358">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="126" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585218595005" />
-    <state width="1345" height="126" key="GridCell.Tab.0.left" timestamp="1585218595005">
+    <state width="1345" height="126" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585903877358" />
+    <state width="1345" height="126" key="GridCell.Tab.0.left" timestamp="1585903877358">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="126" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585218595005" />
-    <state width="1345" height="126" key="GridCell.Tab.0.right" timestamp="1585218595005">
+    <state width="1345" height="126" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585903877358" />
+    <state width="1345" height="126" key="GridCell.Tab.0.right" timestamp="1585903877358">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="126" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585218595005" />
+    <state width="1345" height="126" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585903877358" />
     <state width="1345" height="95" key="GridCell.Tab.1.bottom" timestamp="1584540605629">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -248,10 +242,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584819409243" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1585848238293">
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1585899605609">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585848238293" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585899605609" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1581516456700">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
