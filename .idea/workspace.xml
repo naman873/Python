@@ -2,7 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4039e90c-72dd-4b9a-9751-d958e1565e5e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/fifth/fifteen/.ipynb_checkpoints/LinkedList-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fifth/fifteen/.ipynb_checkpoints/charm2-checkpoint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fifth/fifteen/LinkedList.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fifth/fifteen/charm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fifth/fifteen/charm2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fourty/.ipynb_checkpoints/intro_to_tensorflow-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fourty/intro_to_tensorflow.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fifteen/.ipynb_checkpoints/LinkedList-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fifteen/.ipynb_checkpoints/charm2-checkpoint.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fifteen/LinkedList.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fifteen/charm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fifteen/charm2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/diabaties.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/project/diabaties.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thirtyeight/spam_ham.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/thirtyeight/spam_ham.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thirtyfive/titanic.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/thirtyfive/titanic.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/thirtynine/charm/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/thirtynine/charm/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thirtynine/charm/sample.py" beforeDir="false" afterPath="$PROJECT_DIR$/thirtynine/charm/sample.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thirtynine/charm/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/thirtynine/charm/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/twentyeight/Logisticregressionusinglib.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/twentyeight/Logisticregressionusinglib.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/twentyfour/dynamicprogramming.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/twentyfour/dynamicprogramming.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/twentynine/customLogisticmany.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/twentynine/customLogisticmany.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/twentyseven/univarient.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/twentyseven/univarient.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/twentysix/.ipynb_checkpoints/LinearReg-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/twentysix/.ipynb_checkpoints/LinearReg-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/twentysix/LinearReg.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/twentysix/LinearReg.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +46,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/thirtynine/charm" />
   </component>
   <component name="ProjectId" id="1XeIq5SM17jgKWchKFZGB5FE0yJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -202,22 +227,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581502722039" />
-    <state width="1345" height="126" key="GridCell.Tab.0.bottom" timestamp="1585907894045">
+    <state width="1345" height="126" key="GridCell.Tab.0.bottom" timestamp="1585949329985">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="126" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585907894045" />
-    <state width="1345" height="126" key="GridCell.Tab.0.center" timestamp="1585907894044">
+    <state width="1345" height="126" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585949329985" />
+    <state width="1345" height="126" key="GridCell.Tab.0.center" timestamp="1585949329985">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="126" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585907894044" />
-    <state width="1345" height="126" key="GridCell.Tab.0.left" timestamp="1585907894044">
+    <state width="1345" height="126" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585949329985" />
+    <state width="1345" height="126" key="GridCell.Tab.0.left" timestamp="1585949329985">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="126" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585907894044" />
-    <state width="1345" height="126" key="GridCell.Tab.0.right" timestamp="1585907894045">
+    <state width="1345" height="126" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585949329985" />
+    <state width="1345" height="126" key="GridCell.Tab.0.right" timestamp="1585949329985">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="126" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585907894045" />
+    <state width="1345" height="126" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585949329985" />
     <state width="1345" height="95" key="GridCell.Tab.1.bottom" timestamp="1584540605629">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -238,10 +263,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584819409243" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1585911716030">
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1586106321402">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585911716030" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586106321402" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1581516456700">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

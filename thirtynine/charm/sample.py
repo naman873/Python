@@ -1,4 +1,11 @@
 from flask import Flask,templating,request
+import pickle
+
+with open("vect.pickle","rb") as f:
+    vect=pickle.load(f)
+
+with open("nb.pickle","rb") as f:
+    nb=pickle.load(f)
 
 app=Flask("hell")
 
@@ -8,7 +15,10 @@ def fom():
 
 @app.route("/submit/",methods=["POST"])
 def submit():
-    fname=request.args.get("firstname")
-    lname = request.args.get("password")
-    return "my first name is {} and last name is {}".format(fname,lname)
+    message=request.form["message"]
+    x_data=vect.transform([message]).todense()
+    y=nb.predict(x_data)
+    print(y)
+    return str(y)
+
 
