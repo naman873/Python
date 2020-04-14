@@ -2,51 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4039e90c-72dd-4b9a-9751-d958e1565e5e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fifth/fifteen/.ipynb_checkpoints/LinkedList-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fifth/fifteen/.ipynb_checkpoints/charm2-checkpoint.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fifth/fifteen/LinkedList.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fifth/fifteen/charm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fifth/fifteen/charm2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fourty/.ipynb_checkpoints/intro_to_tensorflow-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fourty/intro_to_tensorflow.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/question/.ipynb_checkpoints/jokess_scrapping-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/question/got_cv2/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/question/got_cv2/Jamie_After.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/question/got_cv2/Jamie_Before.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/question/got_cv2/Untitled.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/question/got_cv2/glasses.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/question/got_cv2/haarcascade_eye.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/question/got_cv2/haarcascade_frontalface_default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/question/got_cv2/jamielanister.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/question/got_cv2/mustache.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/question/jokess_scrapping.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fifteen/.ipynb_checkpoints/LinkedList-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fifteen/.ipynb_checkpoints/charm2-checkpoint.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fifteen/LinkedList.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fifteen/charm.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fifteen/charm2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/diabaties.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/project/diabaties.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thirtyeight/spam_ham.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/thirtyeight/spam_ham.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thirtyfive/titanic.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/thirtyfive/titanic.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thirtynine/charm/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/thirtynine/charm/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thirtynine/charm/sample.py" beforeDir="false" afterPath="$PROJECT_DIR$/thirtynine/charm/sample.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thirtynine/charm/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/thirtynine/charm/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/twentyeight/Logisticregressionusinglib.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/twentyeight/Logisticregressionusinglib.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/twentyfour/dynamicprogramming.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/twentyfour/dynamicprogramming.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/twentynine/customLogisticmany.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/twentynine/customLogisticmany.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/twentyseven/univarient.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/twentyseven/univarient.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/twentysix/.ipynb_checkpoints/LinearReg-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/twentysix/.ipynb_checkpoints/LinearReg-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/twentysix/LinearReg.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/twentysix/LinearReg.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/first-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/first-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/secondclass-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/secondclass-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Untitled.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fifth/overlay.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fifth/overlay.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/first.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nine/scraping.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/nine/scraping.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secondclass.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/secondclass.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thirtyone/snapchat/python_hat.py" beforeDir="false" afterPath="$PROJECT_DIR$/thirtyone/snapchat/python_hat.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="python" />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/thirtynine/charm" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1XeIq5SM17jgKWchKFZGB5FE0yJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -54,7 +46,6 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -62,23 +53,23 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/thirtyone/snapchat" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/question/got_cv2" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Naman\pracrice\questions\recursion" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Naman\python\question\got_cv2" />
       <recent name="C:\Users\Naman\python\thirtyone\snapchat" />
       <recent name="C:\Users\Naman\pracrice" />
       <recent name="C:\Users\Naman\python\thirtytwo" />
       <recent name="C:\Users\Naman\python\thirtyone" />
-      <recent name="C:\Users\Naman\python\thirty\facedetection" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Naman\pracrice\questions\recursion" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.sample">
+  <component name="RunManager" selected="Python.jamielanister">
     <configuration name="face detect" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -121,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="first" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="jamielanister" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,11 +120,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/thirtythree" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/question/got_cv2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/thirtythree/first.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/question/got_cv2/jamielanister.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.jamielanister" />
         <item itemvalue="Python.sample" />
         <item itemvalue="Python.face detect" />
         <item itemvalue="Python.face learn" />
         <item itemvalue="Python.python_hat" />
-        <item itemvalue="Python.first" />
       </list>
     </recent_temporary>
   </component>
@@ -215,6 +206,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="458" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1585903818953" />
+    <state x="363" y="100" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1586811155282">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="100" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1586811155282" />
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584623321666">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -227,22 +222,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581502722039" />
-    <state width="1345" height="126" key="GridCell.Tab.0.bottom" timestamp="1585949329985">
+    <state width="1345" height="126" key="GridCell.Tab.0.bottom" timestamp="1586816776738">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="126" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585949329985" />
-    <state width="1345" height="126" key="GridCell.Tab.0.center" timestamp="1585949329985">
+    <state width="1345" height="126" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586816776738" />
+    <state width="1345" height="126" key="GridCell.Tab.0.center" timestamp="1586816776738">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="126" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585949329985" />
-    <state width="1345" height="126" key="GridCell.Tab.0.left" timestamp="1585949329985">
+    <state width="1345" height="126" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586816776738" />
+    <state width="1345" height="126" key="GridCell.Tab.0.left" timestamp="1586816776738">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="126" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585949329985" />
-    <state width="1345" height="126" key="GridCell.Tab.0.right" timestamp="1585949329985">
+    <state width="1345" height="126" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586816776738" />
+    <state width="1345" height="126" key="GridCell.Tab.0.right" timestamp="1586816776738">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="126" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585949329985" />
+    <state width="1345" height="126" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586816776738" />
     <state width="1345" height="95" key="GridCell.Tab.1.bottom" timestamp="1584540605629">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -263,10 +258,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584819409243" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1586106321402">
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1586810901956">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586106321402" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586810901956" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1581516456700">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

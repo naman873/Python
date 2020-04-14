@@ -30,6 +30,8 @@ while True:
             cv2.imshow("glasses",glass)
             cut=image[y1:y1+h,x1:x1+w]
 
+
+
             for row in range(h):
                 for col in range(w):
                     if glass[row,col,3]>100:
