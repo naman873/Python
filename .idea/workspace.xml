@@ -2,27 +2,119 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4039e90c-72dd-4b9a-9751-d958e1565e5e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/question/.ipynb_checkpoints/jokess_scrapping-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question/got_cv2/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question/got_cv2/Jamie_After.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question/got_cv2/Jamie_Before.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question/got_cv2/Untitled.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question/got_cv2/glasses.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question/got_cv2/haarcascade_eye.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question/got_cv2/haarcascade_frontalface_default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question/got_cv2/jamielanister.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question/got_cv2/mustache.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question/jokess_scrapping.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/naman-checkpoint.text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/requirements-checkpoint.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eighteen/pracccccc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fifteen/.ipynb_checkpoints/LinkedList-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fifteen/.ipynb_checkpoints/charm-checkpoint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fifteen/.ipynb_checkpoints/charm2-checkpoint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fifteen/LinkedList.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fifteen/charm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fifteen/charm2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fifth/.ipynb_checkpoints/prac_panda-checkpoint.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fifth/.ipynb_checkpoints/practice_-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fifth/prac_panda.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fifth/practice_.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fiftyfive/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fiftyfive/.ipynb_checkpoints/cb_team-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fiftyfive/.ipynb_checkpoints/scrapping-Copy1-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fiftyfive/.ipynb_checkpoints/scrapping-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fiftyfive/Untitled.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fiftyfive/cb_team.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fiftyfive/scrapping-Copy1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fiftyfive/scrapping.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fiftyfour/.ipynb_checkpoints/Image_cap-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fiftyfour/.ipynb_checkpoints/caption_sequence-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fiftyfour/Image_cap.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fiftyfour/caption_sequence.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fourteen/sir/.ipynb_checkpoints/Human-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fourteen/sir/.ipynb_checkpoints/SQLAlchemy-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fourteen/sir/.ipynb_checkpoints/colorful-hot-air-balloons-flying-260nw-1033306540-checkpoint.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fourteen/sir/.ipynb_checkpoints/sql_in_ipython-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fourteen/sir/.ipynb_checkpoints/sqlite3-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naman.text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/pracccccc/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/pracccccc/Untitled.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/pracccccc/pracccccc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seventh/.ipynb_checkpoints/stackusingnumpy-Copy1-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seventh/.ipynb_checkpoints/stackusingnumpy-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seventh/stackusingnumpy-Copy1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seventh/stackusingnumpy.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sixteen/.ipynb_checkpoints/sub_squence-checkpoint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tenth/templates/.ipynb_checkpoints/sample_post-checkpoint.template" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tenth/templates/sample_post.template" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thirteen/.ipynb_checkpoints/first-checkpoint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thirteen/first" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/first-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/first-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/secondclass-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/secondclass-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Untitled.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eight/.ipynb_checkpoints/queue-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/eight/.ipynb_checkpoints/queue-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eight/queue.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/eight/queue.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eleven/.ipynb_checkpoints/pandas-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/eleven/.ipynb_checkpoints/pandas-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eleven/pandas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/eleven/pandas.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fifth/.ipynb_checkpoints/oop-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fifth/.ipynb_checkpoints/oop-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fifth/.ipynb_checkpoints/oopshitman-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fifth/.ipynb_checkpoints/oopshitman-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fifth/.ipynb_checkpoints/overlay-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fifth/.ipynb_checkpoints/overlay-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fifth/.ipynb_checkpoints/overlay1-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fifth/.ipynb_checkpoints/overlay1-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fifth/editpanda.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/fifth/editpanda.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fifth/editpanda1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/fifth/editpanda1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fifth/fifteen/.ipynb_checkpoints/LinkedList-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fifth/fifteen/.ipynb_checkpoints/charm2-checkpoint.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fifth/fifteen/LinkedList.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fifth/fifteen/charm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fifth/fifteen/charm2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fifth/oop.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fifth/oop.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fifth/oopshitman.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fifth/oopshitman.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fifth/overlay.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fifth/overlay.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fifth/overlay1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fifth/overlay1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fifty/RNN_movie_revie.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fifty/RNN_movie_revie.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fiftytwo/genetic.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fiftytwo/genetic.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/first.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/first.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nine/scraping.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/nine/scraping.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fourteen/.ipynb_checkpoints/SQL!-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fourteen/.ipynb_checkpoints/SQL!-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fourteen/.ipynb_checkpoints/SQL-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fourteen/.ipynb_checkpoints/SQL-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fourteen/SQL!.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fourteen/SQL!.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fourteen/SQL.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fourteen/SQL.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fourteen/sir/Human.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fourteen/sir/Human.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fourteen/sir/SQLAlchemy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fourteen/sir/SQLAlchemy.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fourteen/sir/sql_in_ipython.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fourteen/sir/sql_in_ipython.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fourteen/sir/sqlite3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fourteen/sir/sqlite3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fourth/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fourth/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fourth/.ipynb_checkpoints/numpy-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fourth/.ipynb_checkpoints/numpy-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fourth/.ipynb_checkpoints/numpyconcept-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fourth/.ipynb_checkpoints/numpyconcept-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fourth/.ipynb_checkpoints/pilIntro-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fourth/.ipynb_checkpoints/pilIntro-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fourth/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fourth/Untitled.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fourth/numpy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fourth/numpy.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fourth/numpyconcept.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fourth/numpyconcept.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fourth/pilIntro.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fourth/pilIntro.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/secondclass.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/secondclass.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thirtyone/snapchat/python_hat.py" beforeDir="false" afterPath="$PROJECT_DIR$/thirtyone/snapchat/python_hat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seventeen/arrayrec.py" beforeDir="false" afterPath="$PROJECT_DIR$/seventeen/arrayrec.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sixteen/thirteen/.ipynb_checkpoints/first-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sixteen/thirteen/first" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sixth/.ipynb_checkpoints/human-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/sixth/.ipynb_checkpoints/human-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sixth/.ipynb_checkpoints/nitro_car-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/sixth/.ipynb_checkpoints/nitro_car-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sixth/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/sixth/Untitled.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sixth/engine.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/sixth/engine.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sixth/human.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/sixth/human.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sixth/nitro_car.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/sixth/nitro_car.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tenth/.ipynb_checkpoints/form-post-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/tenth/.ipynb_checkpoints/form-post-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tenth/form-post.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/tenth/form-post.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tenth/form.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/tenth/form.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tenth/queryparameter.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/tenth/queryparameter.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tenth/templates/.ipynb_checkpoints/sample-checkpoint.template" beforeDir="false" afterPath="$PROJECT_DIR$/tenth/templates/.ipynb_checkpoints/sample-checkpoint.template" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tenth/templates/.ipynb_checkpoints/sample1-checkpoint.template" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tenth/templates/sample.template" beforeDir="false" afterPath="$PROJECT_DIR$/tenth/templates/sample.template" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tenth/templates/sample1.template" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/third/.ipynb_checkpoints/set-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/third/.ipynb_checkpoints/set-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/third/.ipynb_checkpoints/tuple-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/third/.ipynb_checkpoints/tuple-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/third/hashmap.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/third/hashmap.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/third/markov.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/third/markov.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/third/set.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/third/set.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/third/seventh/.ipynb_checkpoints/stackusingnumpy-Copy1-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/third/seventh/.ipynb_checkpoints/stackusingnumpy-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/third/seventh/stackusingnumpy-Copy1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/third/seventh/stackusingnumpy.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/third/tuple.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/third/tuple.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/twelve/fbchatbot.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/twelve/fbchatbot.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +161,7 @@
       <recent name="C:\Users\Naman\pracrice\questions\recursion" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.jamielanister">
+  <component name="RunManager" selected="Python.pracccccc">
     <configuration name="face detect" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -83,27 +175,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/thirtytwo/face detect.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="face learn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/thirtytwo" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/thirtytwo/face learn.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +204,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="python_hat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pracccccc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,11 +212,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/thirtyone/snapchat" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project/pracccccc" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/thirtyone/snapchat/python_hat.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project/pracccccc/pracccccc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pracccccccccccc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sixteen" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sixteen/pracccccccccccc.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,11 +269,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pracccccc" />
+        <item itemvalue="Python.pracccccccccccc" />
         <item itemvalue="Python.jamielanister" />
         <item itemvalue="Python.sample" />
         <item itemvalue="Python.face detect" />
-        <item itemvalue="Python.face learn" />
-        <item itemvalue="Python.python_hat" />
       </list>
     </recent_temporary>
   </component>
@@ -222,38 +314,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581502722039" />
-    <state width="1345" height="126" key="GridCell.Tab.0.bottom" timestamp="1586816776738">
+    <state width="1345" height="36" key="GridCell.Tab.0.bottom" timestamp="1589478195809">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="126" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586816776738" />
-    <state width="1345" height="126" key="GridCell.Tab.0.center" timestamp="1586816776738">
+    <state width="1345" height="36" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589478195809" />
+    <state width="1345" height="36" key="GridCell.Tab.0.center" timestamp="1589478195809">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="126" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586816776738" />
-    <state width="1345" height="126" key="GridCell.Tab.0.left" timestamp="1586816776738">
+    <state width="1345" height="36" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589478195809" />
+    <state width="1345" height="36" key="GridCell.Tab.0.left" timestamp="1589478195808">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="126" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586816776738" />
-    <state width="1345" height="126" key="GridCell.Tab.0.right" timestamp="1586816776738">
+    <state width="1345" height="36" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589478195808" />
+    <state width="1345" height="36" key="GridCell.Tab.0.right" timestamp="1589478195809">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="126" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586816776738" />
-    <state width="1345" height="95" key="GridCell.Tab.1.bottom" timestamp="1584540605629">
+    <state width="1345" height="36" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589478195809" />
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1589318663931">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="95" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584540605629" />
-    <state width="1345" height="95" key="GridCell.Tab.1.center" timestamp="1584540605629">
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589318663931" />
+    <state width="1345" height="223" key="GridCell.Tab.1.center" timestamp="1589318663931">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="95" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1584540605629" />
-    <state width="1345" height="95" key="GridCell.Tab.1.left" timestamp="1584540605628">
+    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1589318663931" />
+    <state width="1345" height="223" key="GridCell.Tab.1.left" timestamp="1589318663931">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="95" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1584540605628" />
-    <state width="1345" height="95" key="GridCell.Tab.1.right" timestamp="1584540605629">
+    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1589318663931" />
+    <state width="1345" height="223" key="GridCell.Tab.1.right" timestamp="1589318663931">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="95" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1584540605629" />
+    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1589318663931" />
     <state x="184" y="6" key="SettingsEditor" timestamp="1584819409243">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -262,10 +354,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586810901956" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1581516456700">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1589288691593">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1581516456700" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1589288691593" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

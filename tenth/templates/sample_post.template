@@ -4,12 +4,12 @@
 
 <h2>HTML Forms</h2>
 
-<form action="/submit" method="post">
+<form action="/submit"  method="post","get">
   First name:<br>
-  <input type="text" name="firstname" value="Mickey">
+  <input type="text" name="firstname" value="">
   <br>
   Last name:<br>
-  <input type="text" name="lastname" value="Mouse">
+  <input type="text" name="lastname" value="">
   <br><br>
   <input type="submit" value="Submit">
 </form> 

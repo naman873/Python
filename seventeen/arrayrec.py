@@ -2,7 +2,7 @@ def is_sorted(li,index=0):
     if index==(len(li)-1):
         return True
 
-    current=     li[index]  <=   li[index+1]
+    current=li[index]<=li[index+1]
 
     remaining=is_sorted(li,index+1)
 
