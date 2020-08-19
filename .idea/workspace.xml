@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4039e90c-72dd-4b9a-9751-d958e1565e5e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/databasr/.ipynb_checkpoints/first-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/databasr/delete_sixth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/databasr/first.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/databasr/fourth_read.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/databasr/prac.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/databasr/second.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/databasr/third.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/databasr/update.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ds/.ipynb_checkpoints/linked_list-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ds/.ipynb_checkpoints/queue-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ds/.ipynb_checkpoints/stack-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ds/linked_list.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ds/queue.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ds/recusion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ds/stack.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/redwine/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/redwine/.ipynb_checkpoints/Untitled1-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/redwine/Untitled.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/redwine/Untitled1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eight/queue.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/eight/queue.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eighteen/recursion_checksum.py" beforeDir="false" afterPath="$PROJECT_DIR$/eighteen/recursion_checksum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fifteen/LinkedList.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fifteen/LinkedList.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fiftyfour/.ipynb_checkpoints/caption_sequence-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fiftyfour/.ipynb_checkpoints/caption_sequence-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fiftyfour/caption_sequence.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fiftyfour/caption_sequence.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fiftytwo/prac/.ipynb_checkpoints/panda_genetic-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fiftytwo/prac/.ipynb_checkpoints/panda_genetic-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fiftytwo/prac/.ipynb_checkpoints/real_genetic-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fiftytwo/prac/.ipynb_checkpoints/real_genetic-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fiftytwo/prac/panda_genetic.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fiftytwo/prac/panda_genetic.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fiftytwo/prac/real_genetic.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fiftytwo/prac/real_genetic.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fourtyeight/.ipynb_checkpoints/CNN_transferlearning-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fourtyeight/.ipynb_checkpoints/CNN_transferlearning-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fourtyeight/.ipynb_checkpoints/gen_mnist-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fourtyeight/.ipynb_checkpoints/gen_mnist-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fourtyeight/CNN_transferlearning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fourtyeight/CNN_transferlearning.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fourtyeight/gen.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fourtyeight/gen.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fourtyeight/gen_dir.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fourtyeight/gen_dir.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fourtyeight/gen_mnist.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fourtyeight/gen_mnist.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fourtyeight/prac/.ipynb_checkpoints/CNN_poor-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fourtyeight/prac/.ipynb_checkpoints/CNN_poor-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fourtyeight/prac/.ipynb_checkpoints/CNN_transfer_learning-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fourtyeight/prac/.ipynb_checkpoints/CNN_transfer_learning-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fourtyeight/prac/.ipynb_checkpoints/generator-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fourtyeight/prac/.ipynb_checkpoints/generator-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fourtyeight/prac/.ipynb_checkpoints/resnet-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fourtyeight/prac/.ipynb_checkpoints/resnet-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fourtyeight/prac/CNN_poor.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fourtyeight/prac/CNN_poor.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fourtyeight/prac/CNN_transfer_learning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fourtyeight/prac/CNN_transfer_learning.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fourtyeight/prac/generator.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fourtyeight/prac/generator.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fourtyeight/prac/resnet.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fourtyeight/prac/resnet.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fourtysix/.ipynb_checkpoints/autoencoder-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fourtysix/.ipynb_checkpoints/autoencoder-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fourtysix/.ipynb_checkpoints/mnist_pca-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fourtysix/.ipynb_checkpoints/mnist_pca-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fourtysix/autoencoder.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fourtysix/autoencoder.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fourtysix/mnist_pca.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fourtysix/mnist_pca.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/ Best Time to Buy and Sell Stock.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/.ipynb_checkpoints/ Best Time to Buy and Sell Stock-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nine/scraping.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/nine/scraping.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seventh/.ipynb_checkpoints/stackusingnumpy-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/seventh/.ipynb_checkpoints/stackusingnumpy-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seventh/stackusingnumpy-Copy1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/seventh/stackusingnumpy-Copy1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seventh/stackusingnumpy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/seventh/stackusingnumpy.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thirtynine" beforeDir="false" afterPath="$PROJECT_DIR$/thirtynine" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thirtynine/charm/sample.py" beforeDir="false" afterPath="$PROJECT_DIR$/thirtynine/charm/sample.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thirtynine/charm/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/thirtynine/charm/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/twentysix/LinearReg.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/twentysix/LinearReg.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="python" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1XeIq5SM17jgKWchKFZGB5FE0yJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Naman\python\proj" />
+      <recent name="C:\Users\Naman\python\pro" />
+      <recent name="C:\Users\Naman\python\thirtytwo\prac" />
+      <recent name="C:\Users\Naman\python\thirtyone\prac" />
+      <recent name="C:\Users\Naman\python\thirty\prac" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Naman\python\databasr" />
+      <recent name="C:\Users\Naman\pracrice\questions\recursion" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.prac">
+    <configuration name="delete_sixth" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/databasr" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/databasr/delete_sixth.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fourth_read" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/databasr" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/databasr/fourth_read.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="prac" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/databasr" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/databasr/prac.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="second" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/databasr" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/databasr/second.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="update" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/databasr" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/databasr/update.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.prac" />
+        <item itemvalue="Python.delete_sixth" />
+        <item itemvalue="Python.update" />
+        <item itemvalue="Python.fourth_read" />
+        <item itemvalue="Python.second" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4039e90c-72dd-4b9a-9751-d958e1565e5e" name="Default Changelist" comment="" />
+      <created>1581400320513</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581400320513</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="458" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590832930787">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="458" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1590832930787" />
+    <state x="363" y="100" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1586811155282">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="100" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1586811155282" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590909669854">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1590909669854" />
+    <state x="468" y="64" key="DBNavigator.ConnectionInfoDialog" timestamp="1593779891016">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="468" y="64" key="DBNavigator.ConnectionInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1593779891016" />
+    <state x="413" y="286" key="DBNavigator.CreateRenameConsoleDialog" timestamp="1593780831048">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="286" key="DBNavigator.CreateRenameConsoleDialog/0.0.1366.728@0.0.1366.728" timestamp="1593780831048" />
+    <state x="-79" y="38" key="DBNavigator.ProjectSettingsDialog" timestamp="1593843687306">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="-79" y="38" key="DBNavigator.ProjectSettingsDialog/0.0.1366.728@0.0.1366.728" timestamp="1593843687306" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1594814456635">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1594814456635" />
+    <state width="1345" height="176" key="GridCell.Tab.0.bottom" timestamp="1594042749200">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594042749200" />
+    <state width="1345" height="176" key="GridCell.Tab.0.center" timestamp="1594042749200">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1594042749200" />
+    <state width="1345" height="176" key="GridCell.Tab.0.left" timestamp="1594042749200">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1594042749200" />
+    <state width="1345" height="176" key="GridCell.Tab.0.right" timestamp="1594042749200">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1594042749200" />
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1593514683773">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593514683773" />
+    <state width="1345" height="223" key="GridCell.Tab.1.center" timestamp="1593514683773">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1593514683773" />
+    <state width="1345" height="223" key="GridCell.Tab.1.left" timestamp="1593514683773">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1593514683773" />
+    <state width="1345" height="223" key="GridCell.Tab.1.right" timestamp="1593514683773">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1593514683773" />
+    <state x="167" y="0" width="998" height="708" key="SettingsEditor" timestamp="1594814511832">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="167" y="0" width="998" height="708" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1594814511832" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1594814334580">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1594814334580" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1589288691593">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1589288691593" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/fifteen/charm.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/fifteen/charm2.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sixteen/sub_squence.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sixteen/permutation.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sixteen/recursion.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sixteen/recursion.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../pracrice/fifthweek.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sixteen/maze.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../pracrice/questions/recursion/third.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../pracrice/questions/recursion/fourth.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/pra.py</url>
+          <line>78</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/stair.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/stair.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/eighteen/recursion_checksum.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
